@@ -1,5 +1,5 @@
 ![1668234043611](https://user-images.githubusercontent.com/97793791/215078323-9fa35849-f588-4d13-a735-6a352cbe7187.jpeg)
-<h1 align="center">Hi 👋, I'm Gursahib Singh</h1>
+<h1 align="center">Hi 👋, I'm Gursahib Singh Singh</h1>
 <h3 align="center">An aspiring Software Developer</h3>
 <img align="right" alt-"Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 - 🌱 I’m currently learning **Flutter, Dart, JAVA**
