@@ -8,12 +8,14 @@
 - 💌 Feel free to reach out to me at **gursahib99888@gmail.com**, I'm always open to new connections and opportunities
 - 🌟 Fun fact: **I know a little bit about everything, which helps me connect the dots and impress my friends.**
 
-<h3 align="left">Let's Connect:</h3>
+### Let's Connect:
+
 <p align="left">
     <a href="https://linkedin.com/in/gursahibsingh07" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gursahibsingh07" height="30" width="40" style="border-radius: 15px;" />
     </a>
 </p>
+
 
 
 <h3 align="left">My Toolkit:</h3>
