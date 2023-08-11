@@ -1,6 +1,6 @@
 <h1 align="center">Greetings! 👋 I'm Gursahib Singh</h1>
 <h3 align="center">A Passionate Software Developer on the Rise</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="border-radius: 15px;">
 
 - 🎓 Enhancing my expertise in **Flutter, Dart, JAVA** and on a relentless quest for knowledge
 - 🤝 Actively seeking collaboration on innovative projects, especially in **Flutter and Cross-platform Development**
