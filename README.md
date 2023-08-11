@@ -10,7 +10,7 @@
 
 <h3 align="left">Let's Connect:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/gursahibsingh07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gursahibsingh07" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gursahibsingh07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gursahibsingh07" height="30" width="40" style="border-radius: 20px;/></a>
 </p>
 
 <h3 align="left">My Toolkit:</h3>
