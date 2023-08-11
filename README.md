@@ -6,7 +6,7 @@
 - 🤝 Actively seeking collaboration on innovative projects, especially in **Flutter and Cross-platform Development**
 - 🗂️ Your go-to source for insights on **Android, iOS, Cross-platform, or Web Development**—don't hesitate to ask!
 - 💌 Feel free to reach out to me at **gursahib99888@gmail.com**, I'm always open to new connections and opportunities
-- 🌟 Fun fact: **My eclectic knowledge base not only adds flair to trivia nights with friends but also sparks creativity in problem-solving.**
+- 🌟 Fun fact: **I know a little bit about everything, which helps me connect the dots and impress my friends.**
 
 <h3 align="left">Let's Connect:</h3>
 <p align="left">
