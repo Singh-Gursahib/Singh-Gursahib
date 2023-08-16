@@ -5,7 +5,7 @@
 - 🎓 Enhancing my expertise in **Flutter, Dart, JAVA** and on a relentless quest for knowledge
 - 🤝 Actively seeking collaboration on innovative projects, especially in **Flutter and Cross-platform Development**
 - 🗂️ Your go-to source for insights on **Android, iOS, Cross-platform, or Web Development**—don't hesitate to ask!
-- 💌 Feel free to reach out to me at **gursahib99888@gmail.com**, I'm always open to new connections and opportunities
+- 💌 Feel free to reach out to me at **gursahib99888@gmail.com**, I'm always open to new connections and opportunities.
 - 🌟 Fun fact: **I know a little bit about everything, which helps me connect the dots and impress my friends.**
 
 ### Let's Connect:
